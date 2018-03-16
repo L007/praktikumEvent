@@ -18,6 +18,7 @@ public class Biodata extends javax.swing.JFrame {
      */
     public Biodata() {
         initComponents();
+        //comment
     }
 
     /**
